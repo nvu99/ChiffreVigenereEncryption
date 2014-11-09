@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Encryption));
             this.keyBox = new System.Windows.Forms.TextBox();
             this.inputBox = new System.Windows.Forms.RichTextBox();
             this.outputBox = new System.Windows.Forms.RichTextBox();
@@ -116,6 +117,7 @@
             this.Controls.Add(this.outputBox);
             this.Controls.Add(this.inputBox);
             this.Controls.Add(this.keyBox);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Encryption";
             this.Text = "Chiffre Vigenere Encryption";
             this.Load += new System.EventHandler(this.Encryption_Load);

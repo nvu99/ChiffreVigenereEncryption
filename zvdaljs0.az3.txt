@@ -1,0 +1,88 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   CaesarCipherEncryption.suo
+#	new file:   ChiffreVigenereEncryption.sln
+#	new file:   ChiffreVigenereEncryption.suo
+#	new file:   ChiffreVigenereEncryption/ChiffreVigenereEncryption.csproj
+#	new file:   ChiffreVigenereEncryption/ChiffreVigenereEncryption.csproj.user
+#	new file:   ChiffreVigenereEncryption/ChiffreVigenereEncryption_TemporaryKey.pfx
+#	new file:   ChiffreVigenereEncryption/Encryption.Designer.cs
+#	new file:   ChiffreVigenereEncryption/Encryption.cs
+#	new file:   ChiffreVigenereEncryption/Encryption.resx
+#	new file:   ChiffreVigenereEncryption/Program.cs
+#	new file:   ChiffreVigenereEncryption/Properties/AssemblyInfo.cs
+#	new file:   ChiffreVigenereEncryption/Properties/Resources.Designer.cs
+#	new file:   ChiffreVigenereEncryption/Properties/Resources.resx
+#	new file:   ChiffreVigenereEncryption/Properties/Settings.Designer.cs
+#	new file:   ChiffreVigenereEncryption/Properties/Settings.settings
+#	new file:   ChiffreVigenereEncryption/Properties/app.manifest
+#	new file:   ChiffreVigenereEncryption/Publications/1.0.0.1/Application Files/Chiffre Vigenere Encryption_1_0_0_1/Chiffre Vigenere Encryption.application
+#	new file:   ChiffreVigenereEncryption/Publications/1.0.0.1/Application Files/Chiffre Vigenere Encryption_1_0_0_1/Chiffre Vigenere Encryption.exe.deploy
+#	new file:   ChiffreVigenereEncryption/Publications/1.0.0.1/Application Files/Chiffre Vigenere Encryption_1_0_0_1/Chiffre Vigenere Encryption.exe.manifest
+#	new file:   ChiffreVigenereEncryption/Publications/1.0.0.1/Chiffre Vigenere Encryption.application
+#	new file:   ChiffreVigenereEncryption/Publications/1.0.0.1/setup.exe
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Caesar Cipher Encryption.vshost.application
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Caesar Cipher Encryption.vshost.exe.manifest
+#	new file:   ChiffreVigenereEncryption/bin/Debug/CaesarCipherEncryption.vshost.exe.manifest
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Chiffre Vigenere Encryption.application
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Chiffre Vigenere Encryption.exe
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Chiffre Vigenere Encryption.exe.manifest
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Chiffre Vigenere Encryption.pdb
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Chiffre Vigenere Encryption.vshost.application
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Chiffre Vigenere Encryption.vshost.exe
+#	new file:   ChiffreVigenereEncryption/bin/Debug/Chiffre Vigenere Encryption.vshost.exe.manifest
+#	new file:   ChiffreVigenereEncryption/bin/Release/Caesar Cipher Encryption.application
+#	new file:   ChiffreVigenereEncryption/bin/Release/Caesar Cipher Encryption.exe
+#	new file:   ChiffreVigenereEncryption/bin/Release/Caesar Cipher Encryption.exe.manifest
+#	new file:   ChiffreVigenereEncryption/bin/Release/Caesar Cipher Encryption.pdb
+#	new file:   ChiffreVigenereEncryption/bin/Release/Chiffre Vigenere Encryption.application
+#	new file:   ChiffreVigenereEncryption/bin/Release/Chiffre Vigenere Encryption.exe
+#	new file:   ChiffreVigenereEncryption/bin/Release/Chiffre Vigenere Encryption.exe.manifest
+#	new file:   ChiffreVigenereEncryption/bin/Release/Chiffre Vigenere Encryption.pdb
+#	new file:   ChiffreVigenereEncryption/bin/Release/app.publish/Application Files/Chiffre Vigenere Encryption_1_0_0_1/Chiffre Vigenere Encryption.exe.deploy
+#	new file:   ChiffreVigenereEncryption/bin/Release/app.publish/Application Files/Chiffre Vigenere Encryption_1_0_0_1/Chiffre Vigenere Encryption.exe.manifest
+#	new file:   ChiffreVigenereEncryption/bin/Release/app.publish/Chiffre Vigenere Encryption.application
+#	new file:   ChiffreVigenereEncryption/bin/Release/app.publish/setup.exe
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/CaesarCipherEncryption.csproj.FileListAbsolute.txt
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/CaesarCipherEncryption.csproj.GenerateResource.Cache
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/CaesarCipherEncryption.csprojResolveAssemblyReference.cache
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/Chiffre Vigenere Encryption.TrustInfo.xml
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/Chiffre Vigenere Encryption.application
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/Chiffre Vigenere Encryption.exe
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/Chiffre Vigenere Encryption.exe.manifest
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/Chiffre Vigenere Encryption.pdb
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/ChiffreVigenereEncryption.Encryption.resources
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/ChiffreVigenereEncryption.Properties.Resources.resources
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/ChiffreVigenereEncryption.csproj.FileListAbsolute.txt
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/ChiffreVigenereEncryption.csproj.GenerateResource.Cache
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   ChiffreVigenereEncryption/obj/x86/Debug/TempPE/Properties.Resources.Designer.cs.dll
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Caesar Cipher Encryption.TrustInfo.xml
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Caesar Cipher Encryption.application
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Caesar Cipher Encryption.exe
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Caesar Cipher Encryption.exe.manifest
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Caesar Cipher Encryption.pdb
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/CaesarCipherEncryption.Encryption.resources
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/CaesarCipherEncryption.Properties.Resources.resources
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/CaesarCipherEncryption.csproj.FileListAbsolute.txt
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/CaesarCipherEncryption.csproj.GenerateResource.Cache
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Chiffre Vigenere Encryption.TrustInfo.xml
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Chiffre Vigenere Encryption.application
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Chiffre Vigenere Encryption.exe
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Chiffre Vigenere Encryption.exe.manifest
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/Chiffre Vigenere Encryption.pdb
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/ChiffreVigenereEncryption.Encryption.resources
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/ChiffreVigenereEncryption.Properties.Resources.resources
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/ChiffreVigenereEncryption.csproj.FileListAbsolute.txt
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/ChiffreVigenereEncryption.csproj.GenerateResource.Cache
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   ChiffreVigenereEncryption/obj/x86/Release/TempPE/Properties.Resources.Designer.cs.dll
+#
+# Untracked files:
+#	plfdfmgn.2ob.txt
+#
+
