@@ -1,8 +1,6 @@
-Chiffre Vigenere Encryption
+Chiffre Vigenere Encryption - BETA
 ======================
-This is the first BETA version of this software. There are known bugs, however.
-If you have some characters in the input field and you delete the key completely, it will cause the application to crash.
-You may highlight the key you want to remove and type in a new one instead.
+This is the BETA version of this software so bugs are prevalant. Some of them have been identified.
 ______________________
 The algorithm of the encryption is in Encryption.cs.
 ______________________
@@ -10,3 +8,7 @@ Versions:
 - 1.0.0.0 Initial release (deleted from repository) 
 - 1.0.0.1 Name change
 - 1.0.0.2 Icon added
+
+_______________________
+Known bugs:
+- Application crashes if you have characters in the input box and delete the key. Please highlight the key and replace it with another one in case you want to change the key.
