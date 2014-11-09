@@ -7,6 +7,6 @@ ______________________
 The algorithm of the encryption is in Encryption.cs.
 ______________________
 Versions:
-1.0.0.0 First version (deleted from reprository)
-1.0.0.1 Name change
-1.0.0.2 Icon added
+- 1.0.0.0 Initial release (deleted from repository) 
+- 1.0.0.1 Name change
+- 1.0.0.2 Icon added
