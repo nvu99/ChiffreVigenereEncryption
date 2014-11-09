@@ -2,7 +2,7 @@ Chiffre Vigenere Encryption - BETA
 ======================
 This is the BETA version of this software so bugs are prevalant. Some of them have been identified.
 ______________________
-The algorithm of the encryption is in Encryption.cs.
+The algorithm of the encryption is in ChiffreVigenereEncryption/Encryption.cs.
 ______________________
 Versions:
 - 1.0.0.0 Initial release (deleted from repository) 
