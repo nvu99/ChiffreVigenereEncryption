@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Caesar Cipher Encryption.exe" version="1.0.0.0" publicKeyToken="e0c70bda6a85e017" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Caesar Cipher Encryption" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Caesar Cipher Encryption.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Caesar Cipher Encryption.exe" size="10752">
+      <assemblyIdentity name="Caesar Cipher Encryption" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>432m/t5zHbGSIIs3zOWUuFkCf5w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=vu-mac\Vu" issuerKeyHash="c98ded19ff304d0a30bfbb37207da24702697315" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Npw4hToQrasB5aL4qz5jgYhCLjI=</DigestValue></Reference></SignedInfo><SignatureValue>T8t7BQCDtvBgJkQOXyA6UMtwCj+BWHFImb6VaWZJAs8ZTuFNhBouxMv54ziXsnGn/kX+n9WPgdikm6U2P7Bb0rGzt8bGpcYtFVGwxHJUNlPpeTEcjZ56AjkmBk+gUcpEPwRYeNSVkN8p63YC7qkBjme0pl6WFznq97WKfrhKbxU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>odH+q5KpZjCK1y6eFOs+0QJxrZEqOJTJeJcVIFCSvQctbAs1AeRMvhIi3W28n8lnw6nNnWO2J6Hzm+uKW0zLkNJZ9JvofvUT5jkw2/YHY3sEZad++xop2WnHK9tm5k1N5xJce9qknvkoJrtGNvL5CdcoJ/ykBunNKDhIJknEn3E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="322e428881633eabf8a2e501abad103a85389c36" Description="" Url=""><as:assemblyIdentity name="Caesar Cipher Encryption.exe" version="1.0.0.0" publicKeyToken="e0c70bda6a85e017" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=vu-mac\Vu</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>HF/yvBLlYcaN740mKmBYmYeL7zY=</DigestValue></Reference></SignedInfo><SignatureValue>C7HpAhmAJp+O7/97VVAz2Mp3Ky3Lvs6Pk3lp2JlwP5QYziblb7S3njfJcBprCXRHi5eWh3nCGhzqhtYzutGTpvC+IwfNqw+7lgswjR0hbjDnMNf+mkw4Fshiq2NmYGr1LoZvoDdwu2ai/nVbpd7mwq5Lbgxogf4bqkD/x/qB4ig=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>odH+q5KpZjCK1y6eFOs+0QJxrZEqOJTJeJcVIFCSvQctbAs1AeRMvhIi3W28n8lnw6nNnWO2J6Hzm+uKW0zLkNJZ9JvofvUT5jkw2/YHY3sEZad++xop2WnHK9tm5k1N5xJce9qknvkoJrtGNvL5CdcoJ/ykBunNKDhIJknEn3E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQHz578I6K8ohKMs6n0OK9LzANBgkqhkiG9w0BAQUFADAdMRswGQYDVQQDHhIAdgB1AC0AbQBhAGMAXABWAHUwHhcNMTQxMTA5MTA0NzUzWhcNMTUxMTA5MTY0NzUzWjAdMRswGQYDVQQDHhIAdgB1AC0AbQBhAGMAXABWAHUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKHR/quSqWYwitcunhTrPtECca2RKjiUyXiXFSBQkr0HLWwLNQHkTL4SIt1tvJ/JZ8OpzZ1jtieh85vriltMy5DSWfSb6H71E+Y5MNv2B2N7BGWnfvsaKdlpxyvbZuZNTecSXHvapJ75KCa7Rjby+QnXKCf8pAbpzSg4SCZJxJ9xAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAL6485RSBwPYR1wpAhkdzMtaBCH3AQ/t73UwFY3o2giY3oKWi1Dh67nj06/Nowhe0bzqlOW7V2HA/TuwEn0hSkyqQ0aeo+R7yIxUS6r2GdOYGN8bnaDTlAGpUd1MdX+h4dcGkuXmOtddfpY1N8vuWvydoy2F0gFvvKai2oDdVwnQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
