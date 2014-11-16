@@ -8,7 +8,7 @@ Versions:
 - 1.0.0.0 Initial upload (deleted from repository) 
 - 1.0.0.1 Name change
 - 1.0.0.2 Icon added (first pre-release)
-- 1.0.1.0 Installation bug fix attempts
+- 1.0.1.0 setup.exe bug fix attempts (failed - unable to sign security certificate)
 
 _______________________
 Known bugs:
