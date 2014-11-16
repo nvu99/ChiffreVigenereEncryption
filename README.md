@@ -13,3 +13,6 @@ Versions:
 _______________________
 Known bugs:
 - Application crashes if you have characters in the input box and delete the key. Please highlight the key and replace it with another one in case you want to change the key.
+
+_______________________
+Copyright © 2014 Nguyen Thai Dai Vu
